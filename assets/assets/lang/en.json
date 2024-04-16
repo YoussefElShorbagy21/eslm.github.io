@@ -1,0 +1,311 @@
+{
+  "ESLM": "ESLM",
+  "Home": "Home",
+  "About us": "About us",
+  "Contact us": "Contact us",
+  "Log in": "Log in",
+  "Sign Up": "Sign Up",
+  "Log in In as": "Log in  as",
+  "Sign Up In as": "Sign Up  as",
+  "Driver": "Driver",
+  "Worker": "Worker",
+  "E-mail": "E-mail",
+  "Password": "Password",
+  "Remember me": "Remember me",
+  "Forgot Password?": "Forgot Password?",
+  "Don’t have an account yet?": "Don’t have an account yet?",
+  "Full Name": "Full Name",
+  "Driving License": "Driving License",
+  "Choose file": "Choose file",
+  "No file chosen": "No file chosen",
+  "Next": "Next",
+  "Phone Number": "Phone Number",
+  "Confirm Password": "Confirm Password",
+  "alarmPassWord": "Password must be at least 8 characters and must \n contain letters and symbols.",
+  "Create Account": "Create Account",
+  "Already have an account?": "Already have an account?",
+  "About us Text 1": "Hey, there!",
+  "About us Text 2": "Here’s Trucker",
+  "About us Text 3": "Lorem ipsum dolor sit amet consectetur. Sodales iaculis a tristique quis odio pulvinar egestas enim. Eget orci condimentum mattis est convallis nulla pharetra. Dolor id aliquam ultrices sed diam amet. Dolor pulvinar pharetra eget ut purus.\n Lorem ipsum dolor sit amet consectetur. Sodales iaculis a tri\\nvallis nulla pharetra. Dolor id ali\nquam ultrices sed diam\n amet. Dolor pulvinar pharetra eget ut purus.",
+  "Contact Us Text 1": "Contact Us",
+  "Contact Us Text 2": "You can send or ask whatever, and we will reply to your e-mail \n as soon as possible.\u2028Wish you the best!",
+  "you have signed up as\n": "you have signed up as\n",
+  "To complete the signing up we sent an OTP to your phone, please type it": "To complete the signing up we sent an OTP to your phone, please type it",
+  "Finish": "Finish",
+  "Continue": "Continue",
+  "Please, enter your phone number": "Please, enter your phone number",
+  "Enter your new password": "Enter your new password",
+  "Terms Text 1": "Terms & Conditions",
+  "Terms Text 2": "Lorem ipsum dolor sit amet consectetur. Sodales iaculis a tristique quis odio pulvinar egestas enim. Eget orci condimentum mattis est convallis nulla pharetra. Dolor id aliquam ultrices sed diam amet. Dolor pulvinar pharetra eget ut purus. Lorem ipsum dolor sit amet consectetur. Sodales iaculis a tri\\nvallis nulla pharetra. Dolor id ali quam ultrices sed diam amet. Dolor pulvinar pharetra eget ut purus.\n",
+  "TitleContact1": "Welcome Back!",
+  "SubtitleContact1": "To ESLM",
+  "DescriptionContact1": "Continue your journey through our website!\nTrucker makes you connect with several of members \nwheather they were Drivers of Workshops.\n\nHave a nice day!",
+  "TitleContact2": "Welcome!",
+  "SubtitleContact2": "To ESLM",
+  "DescriptionContact2": "Create your account and be one of our members.\nJoin our Community of many Drivers and Workshop!\n\nMake yourself home.",
+  "TitleContact3": "Forgot your Password?",
+  "SubtitleContact3": "Re-assign your password in just a moment! ",
+  "DescriptionContact3": "To change your password, we must confirm that your the owner of the account, \nso that we hope you fill all the required information correct.",
+  "Subject": "Subject",
+  "Message": "Message",
+  "Submit": "Submit",
+  "Company": "Company",
+
+  "errorMessageFullNameEmpty" : "Please enter your full name",
+  "errorMessageEmailEmpty" : "Please enter your email",
+  "errorMessagePasswordEmpty" : "Please enter your password",
+  "errorMessagePasswordLength" : "Password must be at least 8 characters and must contain letters and symbols.",
+  "errorMessagePasswordNotMatch" : "Passwords do not match",
+  "errorMessagePhoneEmpty" : "Please enter your phone number",
+  "errorMessagePhoneLength" : "Phone number must be 9 digits",
+  "errorMessageFileEmpty" : "Please enter your file",
+  "errorMessageEmailInvalid" : "Please enter a valid email",
+  "I’d like to ask about.." : "I’d like to ask about..",
+  "Please enter your Subject" : "Please enter your Subject",
+  "Please enter your Message" : "Please enter your Message",
+  "Write a message." : "Write a message.",
+
+  "To complete the signing up we sent an OTP to your e-mail, please type it" : "To complete the signing up we sent an OTP to your e-mail, please type it",
+  "Resend OTP again." : "Resend OTP again.",
+
+  "Services" : "Services",
+
+  "Personal ID" : "Personal ID",
+
+  "ContentWeAreSorry1" : "Unfortunately, we reviewed your application to join ESLM Community, but it seems you didn’t make it.\n\n",
+  "ContentWeAreSorry2" : "Try applying again after checking and correcting your application.",
+
+  "ContentPending1" : "Your application is still pending and under reviewing.\n\n",
+  "ContentPending2" : "Try checking the website in another time.",
+
+  "Hey" : "Hey",
+
+  "Our Services" : "Our Services",
+  "Eslm platform provided for" : "Eslm platform provided for",
+
+
+  "TitleOurServices1" : "Insurance Companies and Establishments",
+  "DescriptionOurServices1" : "We provide integrated solutions to facilitate the management of \n insurance claims and enhance cooperation between \n insurance companies and authorized maintenance centers.",
+  "DescriptionOurServices1.2" : "Our services include reporting accidents or submitting vehicle \n repair requests to the establishment to follow up on the repair \n status and approve the costs, which serves both insurance \n companies and establishments wishing to repair their vehicles.",
+
+  "TitleOurServices2" : "Vehicle Maintenance and \nRepair Centers",
+  "DescriptionOurServices2" : "We support vehicle maintenance centers with \ncomprehensive solutions that enhance their quality and \nefficiency, ensuring their compliance with the standards of \nthe Specifications and Metrology Authority.",
+  "DescriptionOurServices2.2" : "We offer an advanced electronic invoicing system that \ncomplies with the Zakat and Tax Authority, to ensure \ntransparency and full compliance with regulations",
+  "DescriptionOurServices2.3" : "In addition, through our platform, we provide the ability to \nview the latest accident reports and repair requests and \nsubmit direct quotes to platform customers, \nwhich contributes to accelerating and facilitating the repair process and reducing waiting times.",
+
+  "TitleOurServices3" : "Agents and Spare Parts \nSuppliers",
+  "DescriptionOurServices3" : "We provide a platform that enables you to directly access a \nwide network of maintenance centers and insurance \ncompanies, thus enhancing your opportunities to increase\n sales.",
+  "DescriptionOurServices3.2" : "Through our platform, you can display your spare parts and \nlink them directly to accident reports submitted by insurance\n companies.",
+
+
+  "TitleOurServices4" : "Logistics Service \nProviders",
+  "DescriptionOurServices4" : "We work to provide a platform that facilitates the process of \nobtaining and managing vehicle transportation requests \nefficiently, while providing accurate details about locations \nand destinations.",
+  "DescriptionOurServices4.2" : "At Eslm Platform, we aim to make every transportation \nprocess a hassle-free experience, backed by the trust and \naccuracy you deserve.",
+
+  "TitleOurServices5" : "Vehicle Owners and Users of Eslm \nApplication",
+  "DescriptionOurServices5" : "We provide you with innovative solutions that enable you to follow up on the progress of \nrepair and transportation operations with high efficiency, and that is by ensuring \ncomplete transparency in all stages of work.",
+  "DescriptionOurServices5.2" : "Our services are designed to provide a smooth and comfortable experience, allowing \nyou to view the details of the repair or transportation process. Additionally, we ensure \nthat your car is restored to its original condition according to the manufacturer's \nquality standards, without affecting the quality or warranty of the car.",
+  "DescriptionOurServices5.3" : "We also provide a fast roadside assistance service, enabling you to easily request \nassistance on the road through our application, to ensure your safe arrival to your \ndestination or to the nearest authorized workshop to deal with any problems your \nvehicle may face.",
+
+  "WhatsApp Number" : "WhatsApp Number",
+
+  "Vendor" : "Vendor",
+
+  "Net Profit" : "Net Profit",
+  "Total" : "Total",
+  "Total Sales" : "Total Sales",
+
+  "All Products" : "All Products",
+
+  "All Offers" : "All Offers",
+
+  "ID" : "ID",
+
+  "Product Name" : "Product Name",
+
+  "Make/Year" : "Make/Year",
+
+  "Brand/Category" : "Brand/Category",
+
+  "Price" : "Price",
+  "Old Price":  "Old Price",
+
+  "Quantity" : "Quantity",
+  "Discount" : "Discount",
+  "Action" : "Action",
+
+  "Dashboard" : "Dashboard",
+  "Products" : "Products",
+  "Shop" : "Shop",
+  "Reports" : "Reports",
+  "Approve\nRequests" : "Approve\nRequests",
+  "Users" : "Users",
+  "Profile" : "Profile",
+
+  "Make" : "Make",
+  "Model" : "Model",
+  "Year" : "Year",
+  "Category" : "Category",
+
+  "Sign Out" : "Sign Out",
+  "Settings" : "Settings",
+
+  "Search" : "Search",
+
+  "Latest Reports" : "Pending Requests",
+  "Oldest Reports" : "Completed Requests",
+
+  "View More" : "View More",
+  "Delete" : "Delete",
+
+  "Drivers Requests" : "Drivers Requests",
+  "Workshops Requests" : "Workshops Requests",
+
+  "Approve" : "Approve",
+  "Deny" : "Deny",
+
+  "My Cart" : "My Cart",
+
+  "There’s no requests yet!" : "There’s no requests yet!",
+
+  "Add requests for your car\nusing the add button" : "Add requests for your car\nusing the add button",
+
+  "Show more" : "Show more",
+  "Show less" : "Show less",
+
+  "Vendors Requests" : "Vendors Requests",
+
+  "Give an offer" : "Give an offer",
+
+  "Drivers Users" : "Drivers Users",
+  "Workshops Users" : "Workshops Users",
+  "Vendors Users" : "Vendors Users",
+
+  "View Profile" : "View Profile",
+
+  "You won’t undo this action." : "You won’t undo this action.",
+
+  "Cancel" : "Cancel",
+
+  "Are you sure you want to delete" : "Are you sure you want to delete",
+
+  "from the users list?" : "from the users list?",
+
+  "Reset Password" : "Reset Password",
+
+  "Drive License" : "Drive License",
+
+  "Edit" : "Edit",
+
+  "Completion Date:" : "Completion Date:",
+
+  "Hands Cost: " : "Hands Cost: ",
+
+  "Parts Cost : " : "Parts Cost : ",
+
+  "Total " : "Total ",
+
+  "Accept Offer" : "Accept Offer",
+
+  "Available Offers" : "Available Offers",
+
+  "View Offer" : "View Offer",
+
+  "Checkout" : "Checkout",
+
+  "Location" : "Location",
+
+  "Voucher" : "Voucher",
+
+  "Order Now" : "Order Now",
+
+  "See All" : "See All",
+
+  "Sold by other vendors" : "Sold by other vendors",
+
+  "Delivered on" : "Delivered on",
+
+  "Buy Now" : "Buy Now",
+
+  "Add to cart" : "Add to cart",
+
+  "Wants to apply as" : "Wants to apply as",
+
+  "Product Make" : "Product Make",
+
+  "Product Model" : "Product Model",
+
+  "Product Year" : "Product Year",
+
+  "Product Category" : "Product Category",
+
+  "Description" : "Description",
+
+  "Product Price" : "Product Price",
+
+  "Discount (Optional)" : "Discount (Optional)",
+
+  "Main Image" : "Main Image",
+
+  "Product Images" : "Product Images",
+
+  "Upload" : "Upload",
+
+  "For Workshops:" : "For Workshops:",
+
+  "Get offers from all workshops" : "Get offers from all workshops",
+
+  "Select Workshops" : "Select Workshops",
+
+  "For Vendors:" : "For Vendors:",
+
+  "Get offers from all vendors" : "Get offers from all vendors",
+
+  "Select Vendors" : "Select Vendors",
+
+  "Add" : "Add",
+
+  "View Request" : "View Request",
+
+  "Delete Product" : "Delete Product",
+
+  "Are you sure you want to delete this product?" : "Are you sure you want to delete this product?",
+
+
+  "Car Make" : "Car Make",
+  "Car Model" : "Car Model",
+  "Manufacture Year" : "Manufacture Year",
+  "Car Plate Numbers" : "Car Plate Numbers",
+  "Location Link" : "Location Link",
+  "Upload Images" : "Upload Images",
+  "Documents" : "Documents",
+
+  "Select Workshop" : "Select Workshop",
+
+
+
+
+
+
+  "Top 5 Insurances" : "Top 5 Insurances",
+  "Top 5 Vendor" : "Top 5 Vendor",
+  "Top 5 Driver" : "Top 5 Driver",
+  "Analytics" : "Analytics",
+  "Truck Drivers" : "Truck Drivers",
+  "Workshops" : "Workshops",
+  "Visitors" : "Visitors",
+  "Members" : "Members",
+  "Top" : "Top",
+  "Insurance" : "Insurance",
+  "Products King" : "Products King",
+  "Revenue" : "Revenue",
+  "Weekly" : "Weekly",
+  "see more..." : "see more...",
+  "Empty User" : "Empty User",
+  "Empty Data" : "Empty Data",
+
+  "Done" : "Done",
+  "Add Category" : "Add Category",
+  "Add Categories Done" : "Add Categories Done"
+
+}

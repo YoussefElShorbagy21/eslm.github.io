@@ -1,0 +1,330 @@
+{
+  "ESLM" : "أسلم",
+  "Home" : "الرئسية",
+  "About us" : "عنا",
+  "Contact us" : "تواصل معنا",
+  "Log in" : "تسجيل الدخول",
+  "Sign Up" : "تسجيل",
+  "Log in In as" : "تسجيل الدخول ك",
+  "Sign Up In as" : "تسجيل ",
+  "Driver": "سائق",
+  "Worker": "ورشة اصلاح",
+  "E-mail" : "البريد الالكتروني",
+  "Password" : "كلمة المرور",
+  "Remember me" : "تذكرني",
+  "Forgot Password?" : "نسيت كلمة المرور؟",
+  "Don’t have an account yet?" : "ليس لديك حساب بعد؟",
+
+  "Full Name" : "الاسم الكامل",
+
+  "Driving License" : "رخصة القيادة",
+
+  "Choose file" : "اختر ملف",
+
+  "No file chosen" : "لم يتم اختيار ملف",
+
+  "Next" : "التالي",
+
+  "Phone Number" : "رقم الهاتف",
+
+  "Confirm Password" : "تأكيد كلمة المرور",
+
+  "alarmPassWord" : "يجب أن تتكون كلمة المرور من 8 أحرف على الأقل ويجب أن تكون كذلك\nتحتوي على حروف ورموز.",
+
+  "Create Account" : "إنشاء حساب",
+
+  "Already have an account?" : "هل لديك حساب بالفعل؟",
+
+  "About us Text 1": "النص الاول في تعريف عنا",
+  "About us Text 2": "النص الثاني في تعريف عنا",
+  "About us Text 3": "النص الثالث في تعريف عنا",
+  "Contact Us Text 2" : "النص الاول في تواصل معنا",
+  "Contact Us Text 1" : "النص الاول في تواصل معنا",
+
+  "you have signed up as\n" : "لقد سجلت كـ\n",
+
+  "To complete the signing up we sent an OTP to your phone, please type it" : "لإكمال عملية التسجيل، أرسلنا رمز التحقق إلى هاتفك، يرجى كتابته",
+
+  "Finish" : "إنهاء",
+
+  "Continue" : "متابعة",
+
+  "Please, enter your phone number" : "يرجى إدخال رقم هاتفك",
+
+  "Enter your new password" : "أدخل كلمة المرور الجديدة",
+
+  "Terms Text 1" : "النص الاول صفحة البنود",
+  "Terms Text 2" : "النص الثاني صفحة البنود",
+
+  "TitleContact1" : "مرحبًا بعودتك!",
+  "SubtitleContact1" :"إلى أسلم",
+  "DescriptionContact1" : "واصل رحلتك عبر موقعنا!\nسائق الشاحنة يجعلك تتواصل مع العديد من الأعضاء سواء كانوا سائقي ورش العمل.\nطاب يومك!",
+
+  "TitleContact2" : "مرحبًا بك!",
+  "SubtitleContact2" :"إلى أسلم",
+  "DescriptionContact2" : "أنشئ حسابك وكن أحد أعضائنا.\nانضم إلى مجتمعنا الذي يضم العديد من السائقين وورش العمل!\n\nاجعل نفسك في المنزل.",
+
+  "TitleContact3" : "نسيت كلمة المرور؟",
+  "SubtitleContact3" :"إعادة تعيين كلمة المرور الخاصة بك في لحظة واحدة فقط!",
+  "DescriptionContact3" : "لتغيير كلمة المرور الخاصة بك، يجب أن نؤكد أنك صاحب الحساب، لذا نأمل أن تقوم بملء جميع المعلومات المطلوبة بشكل صحيح.",
+  "Subject" : "الموضوع",
+  "Message" : "الرسالة",
+  "Submit" : "تأكيد",
+
+  "Company": "الشركات",
+
+  "errorMessageEmailEmpty" : "الرجاء إدخال البريد الإلكتروني",
+  "errorMessagePasswordEmpty" : "الرجاء إدخال كلمة المرور",
+  "errorMessagePasswordLength" : "يجب أن تتكون كلمة المرور من 8 أحرف على الأقل",
+  "errorMessagePasswordNotMatch" : "كلمة المرور غير متطابقة",
+  "errorMessageFullNameEmpty" : "الرجاء إدخال الاسم الكامل",
+  "errorMessagePhoneEmpty" : "الرجاء إدخال رقم الهاتف",
+  "errorMessagePhoneLength" : "يجب أن يتكون رقم الهاتف من 9 أرقام",
+  "errorMessageFileEmpty" : "الرجاء إختيار ملف",
+  "errorMessageEmailInvalid" : "الرجاء إدخال بريد إلكتروني صحيح",
+  "I’d like to ask about.." : "أود أن أسأل حول..",
+  "Please enter your Subject" : "الرجاء إدخال الموضوع",
+  "Please enter your Message" : "الرجاء إدخال الرسالة",
+  "Write a message." : "اكتب رسالة.",
+
+
+  "To complete the signing up we sent an OTP to your e-mail, please type it" : "لإكمال عملية التسجيل، أرسلنا رمز التحقق إلى بريدك الإلكتروني، يرجى كتابته",
+  "Resend OTP again." : "إعادة إرسال رمز التحقق مرة أخرى.",
+
+  "Services" : "الخدمات",
+
+  "Personal ID" : "الهوية الشخصية",
+
+  "ContentWeAreSorry1" : "لسوء الحظ، قمنا بمراجعة طلبك للانضمام إلى مجتمع اسلم، ولكن يبدو أنك لم تقم بذلك.\n\n",
+  "ContentWeAreSorry2" : "حاول التقديم مرة أخرى بعد التحقق من طلبك وتصحيحه.",
+
+
+  "ContentPending1" : "طلبك لا يزال معلقًا وقيد المراجعة.\n\n",
+  "ContentPending2" : "حاول التحقق من الموقع في وقت آخر.",
+
+  "Hey" : "مرحبا",
+
+  "Our Services" : "خدماتنا",
+  "Eslm platform provided for" : "منصة أسلم متاحة لـ",
+
+
+  "TitleOurServices1" : "ﺷرﻛﺎت اﻟﺗﺄﻣﯾن واﻟﻣﻧﺷﺂت",
+  "DescriptionOurServices1" : "ﻧوﻓر ﺣﻠوﻻ  ﻣﺗﻛﺎﻣﻠﺔ ﻟﺗﺳﮭﯾل إدارة ﻣطﺎﻟﺑﺎت اﻟﺗﺄﻣﯾن وﺗﻌزﯾز اﻟﺗﻌﺎون ﺑﯾن ﺷرﻛﺎت\nاﻟﺗﺄﻣﯾن وﻣراﻛز اﻟﺻﯾﺎﻧﺔ اﻟﻣﻌﺗﻣدة. ",
+  "DescriptionOurServices1.2" : "ﺧدﻣﺎﺗﻧﺎ ﺗﺷﻣل ﻣن رﻓﻊ ﺗﻘﺎرﯾر اﻟﺣوادث أو رﻓﻊ طﻠﺑﺎت إﺻﻼح ﻣرﻛﺑﺎت اﻟﻣﻧﺷﺄة\n إﻟﻰ ﺗﺗﺑﻊ ﺣﺎﻟﺔ اﻹﺻﻼح واﻟﻣواﻓﻘﺔ ﻋﻠﻰ اﻟﺗﻛﺎﻟﯾف، ﻣﻣﺎ ﯾﺧدم ﻛﻼً ﻣن ﺷرﻛﺎت اﻟﺗﺄﻣﯾن واﻟﻣﻧﺷﺂت اﻟراﻏﺑﺔ ﻓﻲ\nإﺻﻼح ﻣرﻛﺑﺎﺗﮭﺎ. ",
+
+  "TitleOurServices2" : "ﻣراﻛز ﺻﯾﺎﻧﺔ و إﺻﻼح اﻟﻣرﻛﺑﺎت",
+  "DescriptionOurServices2" : "ﻧدﻋم ﻣراﻛز ﺻﯾﺎﻧﺔ اﻟﻣرﻛﺑﺎت ﺑﺣﻠول ﺷﺎﻣﻠﺔ ﺗﻌزز ﺟودﺗﮭﺎ وﻛﻔﺎءﺗﮭﺎ،\n ﻣﻣﺎ ﯾﻛﻔل ﺗواﻓﻘﮭﺎ ﻣﻊ ﻣﻌﺎﯾﯾر ھﯾﺋﺔ اﻟﻣواﺻﻔﺎت واﻟﻣﻘﺎﯾﯾس",
+  "DescriptionOurServices2.2" : "ﻧﻘدم ﻧظﺎم ﻓوﺗرة إﻟﻛﺗروﻧﻲ ﻣﺗطور ﻣﺗواﻓق ﻣﻊ ھﯾﺋﺔ اﻟزﻛﺎة واﻟﺿرﯾﺑﺔ،\n ﻟﺿﻣﺎن اﻟﺷﻔﺎﻓﯾﺔ واﻻﻣﺗﺛﺎل اﻟﻛﺎﻣل ﻟﻠواﺋﺢ. ",
+  "DescriptionOurServices2.3" : "ﺑﺎﻹﺿﺎﻓﺔ إﻟﻰ ذﻟك، ﻧﺗﯾﺢ ﻣن ﺧﻼل ﻣﻧﺻﺗﻧﺎ إﻣﻛﺎﻧﯾﺔ اﻻطﻼع ﻋﻠﻰ أﺣدث ﺗﻘﺎرﯾر اﻟﺣوادث \nوطﻠﺑﺎت اﻹﺻﻼح وﺗﻘدﯾم ﺗﺳﻌﯾرات ﻣﺑﺎﺷرة ﻟﻌﻣﻼء اﻟﻣﻧﺻﺔ،\n ﻣﻣﺎ ﯾﺳﮭم ﻓﻲ ﺗﺳرﯾﻊ وﺗﺳﮭﯾل ﻋﻣﻠﯾﺔ اﻹﺻﻼح وﯾﻘﻠل ﻣن ﻓﺗرات اﻻﻧﺗظﺎر.",
+
+
+  "TitleOurServices3" : "وﻛﻼء وﻣوردي ﻗطﻊ اﻟﻐﯾﺎر",
+  "DescriptionOurServices3" : "ﻧوﻓر ﻣﻧﺻﺔ ﺗﻣﻛﻧﻛم ﻣن اﻟوﺻول اﻟﻣﺑﺎﺷر إﻟﻰ ﺷﺑﻛﺔ واﺳﻌﺔ ﻣن ﻣراﻛز اﻟﺻﯾﺎﻧﺔ\n وﺷرﻛﺎت اﻟﺗﺄﻣﯾن، ﻣﻌززﯾن ﺑذﻟك ﻓرﺻﻛم ﻟزﯾﺎدة اﻟﻣﺑﯾﻌﺎت",
+  "DescriptionOurServices3.2" : "ﻣن ﺧﻼل ﻣﻧﺻﺗﻧﺎ، ﯾﻣﻛﻧﻛم ﻋرض ﻗطﻊ اﻟﻐﯾﺎر اﻟﺧﺎﺻﺔ ﺑﻛم\n ورﺑطﮭﺎ ﻣﺑﺎﺷرة ﺑﺗﻘﺎرﯾر اﻟﺣوادث اﻟﺗﻲ ﺗرﻓﻌﮭﺎ ﺷرﻛﺎت اﻟﺗﺄﻣﯾن.",
+
+  "TitleOurServices4" : "ﻣزودي اﻟﺧدﻣﺎت اﻟﻠوﺟﺳﺗﯾﺔ",
+  "DescriptionOurServices4" : "ﻧﻌﻣل ﻋﻠﻰ ﺗﻘدﯾم ﻣﻧﺻﺔ ﺗﻘوم ﺑﺗﺳﮭﯾل ﻋﻣﻠﯾﺔ اﻟﺣﺻول ﻋﻠﻰ طﻠﺑﺎت ﻧﻘل اﻟﻣرﻛﺑﺎت وإدارﺗﮭﺎ ﺑﻛﻔﺎءة،\n ﻣﻊ ﺗوﻓﯾر ﺗﻔﺎﺻﯾل دﻗﯾﻘﺔ ﺣول اﻟﻣواﻗﻊ واﻟوﺟﮭﺎت.",
+  "DescriptionOurServices4.2" : "ﻧﺣن ﻓﻲ ﻣﻧﺻﺔ إﺳﻠم ﻧﮭدف إﻟﻰ ﺟﻌل ﻛل ﻋﻣﻠﯾﺔ ﻧﻘل ﺗﺟرﺑﺔ ﺧﺎﻟﯾﺔ ﻣن اﻟﻌﻧﺎء،\n ﻣﻌززة ﺑﺎﻟﺛﻘﺔ واﻟدﻗﺔ اﻟﺗﻲ ﺗﺳﺗﺣﻘوﻧﮭﺎ.",
+
+  "TitleOurServices5" : "أﺻﺣﺎب اﻟﻣرﻛﺑﺎت وﻣﺳﺗﺧدﻣﻲ\n ﺗطﺑﯾق \"إﺳﻠم\"",
+  "DescriptionOurServices5" : "ﻧﻘدم ﻟﻛم ﺣﻠوﻻً ﻣﺑﺗﻛرة ﺗﻣﻛﻧﻛم ﻣن ﻣﺗﺎﺑﻌﺔ ﺗﻘدم ﻋﻣﻠﯾﺎتاﻹﺻﻼح واﻟﻧﻘل ﺑﻛﻔﺎءة ﻋﺎﻟﯾﺔ،\n وذﻟك ﻣن ﺧﻼل ﺿﻣﺎن اﻟﺷﻔﺎﻓﯾﺔ اﻟﻛﺎﻣﻠﺔ ﻓﻲ ﺟﻣﯾﻊ ﻣراﺣل اﻟﻌﻣل",
+  "DescriptionOurServices5.2" : "ﺧدﻣﺎﺗﻧﺎ ﻣﺻﻣﻣﺔ ﻟﺗوﻓﯾر ﺗﺟرﺑﺔ ﺳﻠﺳﺔ وﻣرﯾﺣﺔ، ﻣﻣﺎ ﯾﺗﯾﺢ ﻟﻛم إﻣﻛﺎﻧﯾﺔ اﻻطﻼع ﻋﻠﻰ ﺗﻔﺎﺻﯾل ﻋﻣﻠﯾﺔ اﻹﺻﻼح أو اﻟﻧﻘل.\n ﺑﺎﻹﺿﺎﻓﺔ إﻟﻰ ذﻟك، ﻧﺿﻣن اﺳﺗﻌﺎدة ﺳﯾﺎرﺗﻛم إﻟﻰ ﺣﺎﻟﺗﮭﺎ اﻷﺻﻠﯾﺔ وﻓﻘﺎً ﻟﺷروط وﻣﻌﺎﯾﯾر اﻟﺟودة اﻟﺧﺎﺻﺔ ﺑﺎﻟﻣﺻﻧﻊ،\n دون اﻟﺗﺄﺛﯾر ﻋﻠﻰ ﺟودة اﻟﺳﯾﺎرة أو ﺿﻣﺎﻧﮭﺎ",
+  "DescriptionOurServices5.3" : "ﻧوﻓر أﯾﺿﺎً ﺧدﻣﺔ ﻧﻘل اﻟطرﯾق اﻟﺳرﯾﻊ، ﺗﻣﻛﻧﻛم ﻣن طﻠب اﻟﻣﺳﺎﻋدة ﻋﻠﻰ اﻟطرﯾق ﺑﻛل ﺳﮭوﻟﺔ ﻋﺑر ﺗطﺑﯾﻘﻧﺎ،\n ﻟﺿﻣﺎن وﺻوﻟﻛم ﺑﺄﻣﺎن إﻟﻰ وﺟﮭﺗﻛم أو إﻟﻰ أﻗرب ورﺷﺔ ﻣﻌﺗﻣدة ﻟﻠﺗﻌﺎﻣل ﻣﻊ أي ﻣﺷﻛﻼت ﻗد ﺗواﺟﮫ ﻣرﻛﺑﺗﻛم",
+
+  "WhatsApp Number" : "رقم الواتساب",
+
+  "Vendor" : "المورد",
+
+  "Net Profit" : "صافي الربح",
+  "Total" : "الاجمالي",
+  "Total Sales" : "إجمالي المبيعات",
+
+  "All Products" : "جميع المنتجات",
+
+  "All Offers" : "جميع العروض",
+
+  "ID" : "الرقم المعرف",
+  "Product Name" : "اسم المنتج",
+  "Make/Year" : "الصنع/السنة",
+  "Brand/Category" : "العلامة التجارية/الفئة",
+
+  "Price" : "السعر",
+  "Old Price":  "السعر القديم",
+  "Quantity" : "الكمية",
+  "Discount" : "الخصم",
+  "Action" : "الامر",
+
+
+  "Dashboard" : "لوحة التحكم",
+  "Products" : "المنتجات",
+  "Shop" : "المتجر",
+  "Reports" : "التقارير",
+  "Approve\nRequests" : "الموافقة\nعلى الطلبات",
+  "Users" : "المستخدمين",
+  "Profile" : "الملف الشخصي",
+  "Make" : "صنع",
+  "Model" : "النوع",
+  "Year" : "السنه",
+  "Category" : "الفئه",
+
+  "Sign Out" : "تسجيل الخروج",
+  "Settings" : "الاعدادات",
+
+  "Search" : "بحث",
+
+
+  "Latest Reports" : "الطلبات المعلقة",
+  "Oldest Reports" : "الطلبات المكتملة",
+
+  "View More" : "عرض المزيد",
+  "Delete" : "حذف",
+
+  "Drivers Requests" : "طلبات السائقين",
+  "Workshops Requests" : "طلبات ورش العمل",
+
+  "Approve" : "الموافقة",
+  "Deny" : "رفض",
+
+  "My Cart" : "سلتي",
+
+  "There’s no requests yet!" : "لا يوجد طلبات بعد!",
+  "Add requests for your car\nusing the add button" : "أضف طلبات لسيارتك\nباستخدام زر الإضافة",
+
+  "Show more" : "عرض المزيد",
+  "Show less" : "عرض أقل",
+
+  "Vendors Requests" : "طلبات الموردين",
+
+  "Give an offer" : "أعط عرضا",
+
+  "Drivers Users" : "سائقين",
+  "Workshops Users" : "ورش عمل",
+  "Vendors Users" : "موردين",
+
+  "View Profile" : "عرض الملف الشخصي",
+
+  "You won’t undo this action." : "لن تتمكن من التراجع عن هذا الإجراء.",
+
+  "Cancel" : "إلغاء",
+
+  "Are you sure you want to delete" : "هل أنت متأكد أنك تريد حذف",
+
+  "from the users list?" : "من قائمة المستخدمين؟",
+
+
+  "Reset Password" : "إعادة تعيين كلمة المرور",
+
+  "Drive License" : "رخصة القيادة",
+
+
+  "Edit" : "تعديل",
+
+  "Completion Date:" : "تاريخ الإكمال:",
+
+
+  "Hands Cost: " : "تكلفة الأيدي:",
+
+  "Parts Cost : " : "تكلفة القطع:",
+
+  "Total " : "الإجمالي ",
+
+  "Accept Offer" : "قبول العرض",
+
+  "Available Offers" : "العروض المتاحة",
+
+  "View Offer" : "عرض العرض",
+
+  "Checkout" : "الدفع",
+
+  "Location" : "الموقع",
+
+  "Voucher" : "القسيمة",
+
+  "Order Now" : "اطلب الآن",
+
+  "See All" : "عرض الكل",
+
+  "Sold by other vendors" : "تم بيعه من قبل موردين آخرين",
+
+  "Delivered on" : "تم التوصيل في",
+
+  "Buy Now" : "اشتري الآن",
+
+  "Add to cart" : "أضف إلى السلة",
+
+  "Wants to apply as" : "يريد التقديم كـ",
+
+  "Product Make" : "صنع المنتج",
+
+  "Product Model" : "نوع المنتج",
+
+  "Product Year" : "سنة المنتج",
+
+  "Product Category" : "فئة المنتج",
+
+  "Description" : "الوصف",
+
+  "Product Price" : "سعر المنتج",
+
+  "Discount (Optional)" : "خصم (اختياري)",
+
+  "Main Image" : "الصورة الرئيسية",
+
+  "Product Images" : "صور المنتج",
+
+  "Upload" : "تحميل",
+
+  "For Workshops:" : "لورش العمل:",
+
+  "Get offers from all workshops" : "احصل على عروض من جميع ورش العمل",
+
+  "Select Workshops" : "اختر ورش العمل",
+
+  "For Vendors:" : "للموردين:",
+
+  "Get offers from all vendors" : "احصل على عروض من جميع الموردين",
+
+  "Select Vendors" : "اختر الموردين",
+
+  "Add" : "إضافة",
+
+  "View Request" : "عرض الطلب",
+
+  "Delete Product" : "حذف المنتج",
+
+  "Are you sure you want to delete this product?" : "هل أنت متأكد أنك تريد حذف هذا المنتج؟",
+
+  "Car Make" : "صنع السيارة",
+  "Car Model" : "نوع السيارة",
+  "Manufacture Year" : "سنة الصنع",
+  "Car Plate Numbers" : "أرقام لوحة السيارة",
+  "Location Link" : "رابط الموقع",
+  "Upload Images" : "تحميل الصور",
+  "Documents" : "المستندات",
+
+  "Select Workshop" : "اختر ورشة العمل",
+
+
+
+  "Top 5 Insurances" : "أفضل 5 شركات  تأمين",
+  "Top 5 Vendor" : "أفضل 5 بائعين",
+  "Top 5 Driver" : "أفضل 5 شركات  سواقين",
+  "Analytics" : "التحليلات",
+  "Revenue" : "الربح",
+  "Weekly" : "اسبوعي",
+  "see more..." : "المزيد ...",
+  "Top" : "أفضل",
+  "Insurance" : "التأمين",
+  "Products King" : "افضل المنتجات",
+  "Truck Drivers" : "سائقي الشاحنات",
+  "Workshops" : "ورش العمل",
+  "Visitors" : "الزائرين",
+  "Members" : "الاعضاء",
+  "Empty User" : "لا يوجد مستخدمين",
+  "Empty Data" : "لا يوجد بيانات",
+
+  "Done" : "تم",
+  "Add Category" : "اضافة فئة",
+  "Add Categories Done" : "تم اضافة الفئة"
+}
+
